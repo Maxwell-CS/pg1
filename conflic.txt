@@ -1,1 +1,2 @@
 linea A
+haciendo cambios despues de un merge
